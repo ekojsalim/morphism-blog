@@ -1,13 +1,13 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  url: 'https://blog.morphism.id',
+  title: 'Morphism - Blog',
+  subtitle: 'Personal Blog of Eko J. Salim.',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: 'morphism-blog',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-81340238-5',
   menu: [
     {
       label: 'Articles',
@@ -23,16 +23,16 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Eko J. Salim',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Forever Learning.',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'polydivisible@gmail.com',
+      telegram: '',
+      twitter: 'morphism_xyz',
+      github: 'ekojsalim',
+      rss: '',
+      vkontakte: ''
     }
   }
 };

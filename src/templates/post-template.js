@@ -5,6 +5,8 @@ import Post from '../components/Post';
 import { useSiteMetadata } from '../hooks';
 import type { MarkdownRemark } from '../types';
 
+import "katex/dist/katex.min.css"
+
 type Props = {
   data: MarkdownRemark
 };
