@@ -6,6 +6,8 @@ draft: false
 date: 2019-06-17T06:16:49.231Z
 description: Analisis UTBK
 category: UTBK
+tags:
+  - UBTK
 ---
 * [Rekapitulasi LTMPT](#rekapitulasi-ltmpt)
 
